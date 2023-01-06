@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">2.1 - UserInput Live</string>
+
+
+    <string name="generate">generate</string>
+    <string name="name">name</string>
+    <string name="surname">surname</string>
+    <string name="polite">polite</string>
+
+    <string name="greeting_polite">Good Day %1$s %2$s! Just let us know when you need something</string>
+    <string name="greeting_normal">Hey %1$s! Let us know ;)</string>
+</resources>

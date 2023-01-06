@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CrazyTitleStyle">
+        <item name="android:textSize">45sp</item>
+        <item name="android:fontFamily">@font/chewy</item>
+    </style>
+
+    <style name="SweetGreetingStyle">
+        <item name="android:textSize">22sp</item>
+        <item name="android:fontFamily">@font/dawning_of_a_new_day</item>
+    </style>
+
+    <style name="RoundButtonStyle">
+<!--        <item name="cornerRadius">12dp</item>-->
+    </style>
+
+    <style name="RoundButtonWithStrokeStyle" parent="RoundButtonStyle">
+        <item name="strokeWidth">2dp</item>
+        <item name="strokeColor">#232323</item>
+    </style>
+
+</resources>

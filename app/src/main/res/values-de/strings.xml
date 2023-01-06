@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="generate">generieren</string>
+    <string name="name">Vorname</string>
+    <string name="surname">Nachname</string>
+    <string name="polite">höflich</string>
+
+    <string name="greeting_polite">Guten Tag %1$s %2$s! Bitte zögern Sie nicht wenn Sie etwas brauchen.</string>
+    <string name="greeting_normal">Moin %1$s! Gut dich zu sehen ;)</string>
+
+</resources>
